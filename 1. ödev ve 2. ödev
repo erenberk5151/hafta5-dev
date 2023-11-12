@@ -10,4 +10,5 @@ int main()
     else
     cout <<  (sayi-1)  /2;
 }
-çıktısı 6 olur
+proglalamacı burda bir sayının 2 ye bölünüp bölünemedigini bulmak istemiş
+çıktısı :6 
